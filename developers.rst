@@ -235,6 +235,9 @@ Permissions History
 - Florent Xicluna was given commit access on February 25 2010 by
   MvL, based on Antoine Pitrou's recommendation.
 
+- Jason R. Coombs was given commit access on February 23 2010
+  by Brett Cannon as part of a group sprinting on distutils2.
+
 - Dino Viehland was given SVN access on February 23 2010 by Brett
   Cannon, for backporting tests from IronPython.
 
